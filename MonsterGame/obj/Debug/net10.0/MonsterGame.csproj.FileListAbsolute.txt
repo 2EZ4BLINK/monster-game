@@ -1,0 +1,14 @@
+/Users/jamesgorospe/csharp-monster-game/MonsterGame/bin/Debug/net10.0/MonsterGame
+/Users/jamesgorospe/csharp-monster-game/MonsterGame/bin/Debug/net10.0/MonsterGame.deps.json
+/Users/jamesgorospe/csharp-monster-game/MonsterGame/bin/Debug/net10.0/MonsterGame.runtimeconfig.json
+/Users/jamesgorospe/csharp-monster-game/MonsterGame/bin/Debug/net10.0/MonsterGame.dll
+/Users/jamesgorospe/csharp-monster-game/MonsterGame/bin/Debug/net10.0/MonsterGame.pdb
+/Users/jamesgorospe/csharp-monster-game/MonsterGame/obj/Debug/net10.0/MonsterGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesgorospe/csharp-monster-game/MonsterGame/obj/Debug/net10.0/MonsterGame.AssemblyInfoInputs.cache
+/Users/jamesgorospe/csharp-monster-game/MonsterGame/obj/Debug/net10.0/MonsterGame.AssemblyInfo.cs
+/Users/jamesgorospe/csharp-monster-game/MonsterGame/obj/Debug/net10.0/MonsterGame.csproj.CoreCompileInputs.cache
+/Users/jamesgorospe/csharp-monster-game/MonsterGame/obj/Debug/net10.0/MonsterGame.dll
+/Users/jamesgorospe/csharp-monster-game/MonsterGame/obj/Debug/net10.0/refint/MonsterGame.dll
+/Users/jamesgorospe/csharp-monster-game/MonsterGame/obj/Debug/net10.0/MonsterGame.pdb
+/Users/jamesgorospe/csharp-monster-game/MonsterGame/obj/Debug/net10.0/MonsterGame.genruntimeconfig.cache
+/Users/jamesgorospe/csharp-monster-game/MonsterGame/obj/Debug/net10.0/ref/MonsterGame.dll
