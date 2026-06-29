@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonsterGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+097fab7dd6e83cdea742fedc1fac624e8cef533b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonsterGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonsterGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
